@@ -1,0 +1,22 @@
+body {
+  /* margin: 15% 5%; */
+  /* text-align: center; */
+  background-color: #E8ECEF;
+}
+/* h1 {
+  margin: 0;
+  font-size: 4rem;
+} */
+.fas {
+  padding: 0;
+}
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
